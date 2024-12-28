@@ -62,8 +62,7 @@
         <em>Robot Intelligence Lab, Imperial College London</em>
         <br>
         <ul style="text-align: left;">
-          <li>Developed [Specific Feature/Technology] to achieve [Key Impact/Improvement].</li>
-          <li>Presented findings at [Conference/Publication, if any].</li>
+          <li>Hierarchical Reinforcement Learning-based control algorithms for the SLIDER bipedal robot, optimising energy-efficient locomotion.</li>
         </ul>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
@@ -90,6 +89,17 @@
         <ul style="text-align: left;">
           <li>Extended the functionality of the open-source InMoov robot.</li>
           <li>Incorporated advanced control algorithms for enhanced dexterity.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/CV_project.png" alt="Computer Vision Rig" width="100">
+        <br>
+        <strong>Carbon Fibre Defect Detection</strong>
+        <br>
+        <ul style="text-align: left;">
+          <li>Implemented machine vision for defect detection and automated data collection.</li>
         </ul>
       </td>
     </tr>
