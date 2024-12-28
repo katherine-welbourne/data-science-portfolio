@@ -1,21 +1,39 @@
-#logo: /assets/img/headshot_circle.png
+# Basic Site Information
 title: Katherine Welbourne
 description: Portfolio of Machine Learning and Data Science Projects
-#theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
+url: "https://katherine-welbourne.github.io"  # Your GitHub Pages URL
+baseurl: ""  # Leave empty for root domain
+repository: katherine-welbourne/data-science-portfolio  # Repository details
 
-# Custom settings for the theme
+# Theme Configuration
+remote_theme: mmistakes/minimal-mistakes  # Official Minimal Mistakes theme
+
+# Optional Theme Settings
 show_downloads: false       # Disables download links (if supported by the theme)
-show_credits: false         # Removes theme credit or author attribution (if supported)
+show_credits: false         # Removes theme credit or author attribution
 show_github_link: false     # Hides "View the Project on GitHub" (if supported)
 
-# Site details (optional, adjust or remove as necessary)
-baseurl: ""                 # Leave empty for the root domain
-url: "https://katherine-welbourne.github.io"  # Your site URL
-repository: katherine-welbourne/data-science-portfolio  # Repository details (if needed)
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-# Additional metadata (optional)
-author: Katherine Welbourne
-email: example@example.com
-github_username: katherine-welbourne
-linkedin: https://linkedin.com/in/your-profile
+# Author Information
+author:
+  name: Katherine Welbourne
+  email: example@example.com
+  github: https://github.com/katherine-welbourne
+  linkedin: https://linkedin.com/in/your-profile
+
+# Defaults for Pages and Posts
+defaults:
+  - scope:
+      path: ""  # Applies to all files
+    values:
+      layout: single
+      author: Katherine Welbourne
+
+# Optional Analytics and Metadata
+google_analytics: UA-XXXXXXXX-X  # Replace with your Google Analytics ID (optional)
