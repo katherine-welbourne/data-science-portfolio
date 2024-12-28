@@ -1,7 +1,20 @@
-title: Katherine Welbourne
 #logo: /assets/img/headshot_circle.png
+title: Katherine Welbourne
 description: Portfolio of Machine Learning and Data Science Projects
-show_downloads: false
 theme: jekyll-theme-minimal
-github:
-  is_project_page: false
+
+# Custom settings for the theme
+show_downloads: false       # Disables download links (if supported by the theme)
+show_credits: false         # Removes theme credit or author attribution (if supported)
+show_github_link: false     # Hides "View the Project on GitHub" (if supported)
+
+# Site details (optional, adjust or remove as necessary)
+baseurl: ""                 # Leave empty for the root domain
+url: "https://katherine-welbourne.github.io"  # Your site URL
+repository: katherine-welbourne/data-science-portfolio  # Repository details (if needed)
+
+# Additional metadata (optional)
+author: Katherine Welbourne
+email: example@example.com
+github_username: katherine-welbourne
+linkedin: https://linkedin.com/in/your-profile
