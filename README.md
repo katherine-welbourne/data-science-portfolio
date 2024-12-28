@@ -131,7 +131,6 @@
         </div>
       </td>
     </tr>
-
     <!-- Third Row -->
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
