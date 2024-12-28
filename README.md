@@ -122,7 +122,7 @@
     </tr>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/child_poverty_uk.png" alt="Child Poverty Tableau Visualization" width="100">
+        <img src="assets/img/ChildPovertyTableau_project.png" alt="Child Poverty Tableau Visualization" width="100">
         <br>
         <strong>Child Poverty UK Statistics Tableau Interactive Visualisation</strong>
         <br>
