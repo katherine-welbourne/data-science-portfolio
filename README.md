@@ -250,10 +250,11 @@
 
 ---
 
-## 🧰 Suporting Roles
+## 🧰 Early Supplementary Work Experience
 
 <div align="center">
   <table>
+    <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/teaching_online.png" alt="Online Teaching Logo" width="100">
         <br>
@@ -266,7 +267,6 @@
           <li>Delivered tailored English lessons focused on academic writing, speaking, and comprehension skills.</li>
         </ul>
       </td>
-    <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/yankee_candle.png" alt="Yankee Candle Logo" width="100">
         <br>
