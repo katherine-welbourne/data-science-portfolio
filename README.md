@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/open_bionics.png" alt="Open Bionics Logo" width="100">
+        <img src="assets/img/open_bionics.png" alt="Open Bionics Logo" style="width: 100px; height: 100px; object-fit: contain;">
         <br>
         <strong>Machine Learning Software Engineer Intern</strong>
         <br>
