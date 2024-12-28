@@ -86,6 +86,7 @@
           <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
           <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter"></a>
           <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas" alt="Pandas"></a>
+          <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="scikit-learn"></a>
           <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch"></a>
           <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>                    
           <a href="#"><img src="https://img.shields.io/badge/3D%20Printing-white?logo=3D&logoColor=orange" alt="3D Printing"></a>
@@ -122,8 +123,9 @@
         </ul>
         <div>
           <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00979D" alt="Arduino"></a>
           <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="scikit-learn"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>
         </div>
       </td>
     </tr>
@@ -145,6 +147,8 @@
           <a href="#"><img src="https://img.shields.io/badge/Tableau-white?logo=Tableau" alt="Tableau"></a>
           <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
           <a href="#"><img src="https://img.shields.io/badge/pandas-white?logo=pandas" alt="pandas"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Google%20Sheets-white?logo=googlesheets" alt="Google Sheets"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-white?logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel"></a>
         </div>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
