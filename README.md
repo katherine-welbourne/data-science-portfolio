@@ -107,6 +107,7 @@
         <div>
           <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
           <a href="#"><img src="https://img.shields.io/badge/ROS-white?logo=ros&logoColor=blue" alt="ROS"></a>
+          <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch"></a>
           <a href="#"><img src="https://img.shields.io/badge/3D%20Printing-white?logo=3D&logoColor=orange" alt="3D Printing"></a>
           <a href="#"><img src="https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00979D" alt="Arduino"></a>
           <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>
