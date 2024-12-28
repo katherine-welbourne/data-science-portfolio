@@ -3,7 +3,7 @@
 ---
 
 ## 🏆 Certifications  
-- ![Google MLE Logo](assets/img/google_mle_professional_certification.png)  
+- <img src="assets/img/google_mle_professional_certification.png" alt="Google MLE Logo" width="30">  
   [**Professional Machine Learning Engineer Certification** – Google Cloud](https://www.credly.com/badges/75c1d277-9725-4c95-a295-93ac103cd3d0/linked_in_profile)  
 
 ---
@@ -47,5 +47,5 @@
 ---
 
 ## 📜 Certificates of Completion  
-- ![Google DA Logo](assets/img/google_da_certificate.png)  
+- <img src="assets/img/google_da_certificate.png" alt="Google DA Logo" width="30">  
   [**Google Data Analytics Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/5ENUXTFTXJXV)  
