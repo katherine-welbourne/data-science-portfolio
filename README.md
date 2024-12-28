@@ -254,6 +254,18 @@
 
 <div align="center">
   <table>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/teaching_online.png" alt="Online Teaching Logo" width="100">
+        <br>
+        <strong>English Tutor (Online)</strong>
+        <br>
+        <em>Self-Employed</em>
+        <br>
+        <ul style="text-align: left;">
+          <li>Prepared Chinese students for IELTS practice, aiming for a 7.0 score for undergraduate admission to UK universities.</li>
+          <li>Delivered tailored English lessons focused on academic writing, speaking, and comprehension skills.</li>
+        </ul>
+      </td>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/yankee_candle.png" alt="Yankee Candle Logo" width="100">
@@ -281,18 +293,6 @@
         <ul style="text-align: left;">
           <li>Delivered high-quality cleaning services, ensuring hygienic standards in an industrial environment.</li>
           <li>Worked efficiently and effectively while managing multiple tasks in a time-sensitive setting.</li>
-        </ul>
-      </td>
-      <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/teaching_online.png" alt="Online Teaching Logo" width="100">
-        <br>
-        <strong>English Tutor (Online)</strong>
-        <br>
-        <em>Self-Employed</em>
-        <br>
-        <ul style="text-align: left;">
-          <li>Prepared Chinese students for IELTS practice, aiming for a 7.0 score for undergraduate admission to UK universities.</li>
-          <li>Delivered tailored English lessons focused on academic writing, speaking, and comprehension skills.</li>
         </ul>
       </td>
     </tr>
