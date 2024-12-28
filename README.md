@@ -53,6 +53,7 @@
 
 <div align="center">
   <table>
+    <!-- First Row -->
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/SLIDER_project.png" alt="SLIDER Robot" width="100">
@@ -87,11 +88,12 @@
           <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter"></a>
           <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas" alt="Pandas"></a>
           <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="scikit-learn"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>                    
+          <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>
           <a href="#"><img src="https://img.shields.io/badge/3D%20Printing-white?logo=3D&logoColor=orange" alt="3D Printing"></a>
         </div>
       </td>
     </tr>
+    <!-- Second Row -->
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/LLM_Sentiment_Topic.png" alt="LLM Sentiment and Topic Analysis" width="100">
@@ -114,9 +116,23 @@
         </div>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <!-- Empty Cell to Balance Grid -->
+        <img src="assets/img/CV_project.png" alt="Computer Vision Rig" width="100">
+        <br>
+        <strong>Carbon Fibre Defect Detection</strong>
+        <br>
+        <ul style="text-align: left;">
+          <li>Implemented machine vision for defect detection and automated data collection.</li>
+        </ul>
+        <div>
+          <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00979D" alt="Arduino"></a>
+          <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="scikit-learn"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>
+        </div>
       </td>
     </tr>
+
+    <!-- Third Row -->
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/InMoov_project.png" alt="InMoov Humanoid Robot" width="100">
@@ -139,23 +155,6 @@
         </div>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/CV_project.png" alt="Computer Vision Rig" width="100">
-        <br>
-        <strong>Carbon Fibre Defect Detection</strong>
-        <br>
-        <ul style="text-align: left;">
-          <li>Implemented machine vision for defect detection and automated data collection.</li>
-        </ul>
-        <div>
-          <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00979D" alt="Arduino"></a>
-          <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="scikit-learn"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 300px; text-align: center; vertical-align: top;">
         <a href="https://public.tableau.com/app/profile/katherine.welbourne/viz/ChildPovertyUK/ChildPovertyUK" target="_blank">
           <img src="assets/img/ChildPovertyTableau_project.png" alt="Child Poverty Tableau Visualization" width="100">
         </a>
@@ -176,12 +175,10 @@
           <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-white?logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel"></a>
         </div>
       </td>
-      <td style="width: 300px; text-align: center; vertical-align: top;">
-        <!-- Empty cell to balance the grid -->
-      </td>
     </tr>
   </table>
 </div>
+
 
 
 
