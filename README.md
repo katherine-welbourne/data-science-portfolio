@@ -87,7 +87,6 @@
           <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter"></a>
           <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas" alt="Pandas"></a>
           <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="scikit-learn"></a>
-          <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch"></a>
           <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>                    
           <a href="#"><img src="https://img.shields.io/badge/3D%20Printing-white?logo=3D&logoColor=orange" alt="3D Printing"></a>
         </div>
