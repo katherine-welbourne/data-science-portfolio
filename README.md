@@ -64,6 +64,10 @@
         <ul style="text-align: left;">
           <li>Hierarchical Reinforcement Learning-based control algorithms for the SLIDER bipedal robot, optimising energy-efficient locomotion.</li>
         </ul>
+        <br>
+        [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+        [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+        [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/BEng_project.png" alt="Prosthetic Hand" width="100">
@@ -75,6 +79,10 @@
         <ul style="text-align: left;">
           <li>Development of a 3D-printed anthropomorphic robot hand, and control, including evaluation of various machine learning algorithms.</li>
         </ul>
+        <br>
+        [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+        [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+        [![](https://img.shields.io/badge/Google-white?logo=Google)](#)
       </td>
     </tr>
     <tr>
@@ -89,6 +97,10 @@
           <li>Extended the functionality of the open-source InMoov robot.</li>
           <li>Incorporated advanced control algorithms for enhanced dexterity.</li>
         </ul>
+        <br>
+        [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+        [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+        [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#)
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/CV_project.png" alt="Computer Vision Rig" width="100">
@@ -98,19 +110,31 @@
         <ul style="text-align: left;">
           <li>Implemented machine vision for defect detection and automated data collection.</li>
         </ul>
+        <br>
+        [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+        [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+        [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+        [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#)
       </td>
     </tr>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/ChildPovertyTableau_project.png" alt="Child Poverty Tableau Visualization" width="100">
+        <img src="assets/img/child_poverty_uk.png" alt="Child Poverty Tableau Visualization" width="100">
         <br>
         <strong>Child Poverty UK Statistics Tableau Interactive Visualisation</strong>
         <br>
+        <a href="https://public.tableau.com/app/profile/katherine.welbourne/viz/ChildPovertyUK/ChildPovertyUK" target="_blank">
+          View the Interactive Visualization
+        </a>
         <br>
         <ul style="text-align: left;">
           <li>Designed an interactive Tableau dashboard to analyze and visualize child poverty statistics across the UK.</li>
           <li>Presented complex data insights in an accessible format for policymakers and the public.</li>
         </ul>
+        <br>
+        [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+        [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+        [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#)
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <!-- Empty cell to balance the grid -->
@@ -118,6 +142,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
