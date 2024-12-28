@@ -94,6 +94,31 @@
     </tr>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/LLM_Sentiment_Topic.png" alt="LLM Sentiment and Topic Analysis" width="100">
+        <br>
+        <strong>Fine-Tuned LLM for Sentiment and Topic Analysis</strong>
+        <br>
+        <em>Natural Language Processing Application</em>
+        <br>
+        <ul style="text-align: left;">
+          <li>Fine-tuned an open-source LLM to analyze sentiment and extract key topics from customer feedback data.</li>
+          <li>Deployed an API for sentiment classification and topic analysis.</li>
+          <li>Visualized sentiment trends and topics using interactive dashboards.</li>
+        </ul>
+        <div>
+          <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=blue" alt="Python"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Transformers-white?logo=HuggingFace" alt="Transformers"></a>
+          <a href="#"><img src="https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow" alt="TensorFlow"></a>
+          <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib" alt="Matplotlib"></a>
+        </div>
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <!-- Empty Cell to Balance Grid -->
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/InMoov_project.png" alt="InMoov Humanoid Robot" width="100">
         <br>
         <strong>Human-sized Humanoid Robot ‘InMoov’</strong>
