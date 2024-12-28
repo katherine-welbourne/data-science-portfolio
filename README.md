@@ -56,7 +56,7 @@
     <!-- First Row -->
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/SLIDER_project.png" alt="SLIDER Robot" style="width: 120px; height: 140px; padding: 10px; object-fit: contain;">
+        <img src="assets/img/SLIDER_project.png" alt="SLIDER Robot" style="max-width: 120px; max-height: 140px; padding: 10px; object-fit: contain;">
         <br>
         <strong>Hybrid Hierarchical Control for the Knee-less Bipedal Locomotion of the Robot SLIDER</strong>
         <br>
@@ -74,7 +74,7 @@
         </div>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/BEng_project.png" alt="Prosthetic Hand" style="width: 120px; height: 140px; padding: 10px; object-fit: contain;">
+        <img src="assets/img/BEng_project.png" alt="Prosthetic Hand" style="max-width: 120px; max-height: 140px; padding: 10px; object-fit: contain;">
         <br>
         <strong>Classifying surface electromyography signals for the control of a prosthetic hand</strong>
         <br>
