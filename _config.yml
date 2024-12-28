@@ -1,5 +1,5 @@
 title: Katherine Welbourne
 #logo: /assets/img/headshot_circle.png
-description: 
-#show_downloads: true
+description: Portfolio of Machine Learning and Data Science Projects
+show_downloads: false
 theme: jekyll-theme-minimal
