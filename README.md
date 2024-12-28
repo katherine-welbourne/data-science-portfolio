@@ -6,7 +6,7 @@
 <div align="center">
   <table>
     <tr>
-      <td style="width: 300px; text-align: center; vertical-align: top;">
+      <td style="width: 600px; text-align: center; vertical-align: top;">
         <img src="assets/img/open_bionics.png" alt="Open Bionics Logo" width="100">
         <br>
         <strong>Machine Learning Software Engineer Intern</strong>
@@ -18,7 +18,7 @@
           <li>Spearheaded LSTM and RNN models, achieving 96% motion recognition accuracy for 10 motions.</li>
         </ul>
       </td>
-      <td style="width: 300px; text-align: center; vertical-align: top;">
+      <td style="width: 600px; text-align: center; vertical-align: top;">
         <img src="assets/img/bristol_robotics_lab.jpg" alt="BRL Logo" width="100">
         <br>
         <strong>Computer Vision Intern</strong>
@@ -30,7 +30,7 @@
           <li>Developed a machine vision system for defect detection and automated data collection.</li>
         </ul>
       </td>
-      <td style="width: 300px; text-align: center; vertical-align: top;">
+      <td style="width: 600px; text-align: center; vertical-align: top;">
         <img src="assets/img/bristol_robotics_lab.jpg" alt="CHIRON Project Logo" width="100">
         <br>
         <strong>Machine Learning Intern</strong>
