@@ -2,7 +2,8 @@
 
 ## 🎓 Education
 - **MSc Human and Biological Robotics**  
-  Imperial College London, UK  
+  Imperial College London, UK
+  
 - **BEng Robotics Engineering**  
   University of the West of England, Bristol, UK  
 
