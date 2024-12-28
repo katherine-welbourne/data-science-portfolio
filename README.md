@@ -19,7 +19,7 @@
         </ul>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/bristol_robotics_lab.jpg" alt="BRL Logo" width="100">
+        <img src="assets/img/bristol_robotics_lab.jpg" alt="BRL Logo" style="width: 120px; height: 120px; padding: 10px; object-fit: contain;">
         <br>
         <strong>Computer Vision Intern</strong>
         <br>
@@ -31,7 +31,7 @@
         </ul>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/bristol_robotics_lab.jpg" alt="CHIRON Project Logo" width="100">
+        <img src="assets/img/bristol_robotics_lab.jpg" alt="CHIRON Project Logo" style="width: 120px; height: 120px; padding: 10px; object-fit: contain;">
         <br>
         <strong>Machine Learning Intern</strong>
         <br>
