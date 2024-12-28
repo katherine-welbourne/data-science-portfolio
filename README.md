@@ -73,8 +73,7 @@
         <em>Bristol Robotics Laboratory</em>
         <br>
         <ul style="text-align: left;">
-          <li>Reduced defect rates by X% using innovative ML solutions.</li>
-          <li>Streamlined quality inspection workflows, improving efficiency by Y%.</li>
+          <li>Development of a 3D-printed anthropomorphic robot hand, and control, including evaluation of various machine learning algorithms. </li>
         </ul>
       </td>
     </tr>
