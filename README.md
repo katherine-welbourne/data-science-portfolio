@@ -81,7 +81,7 @@
     </tr>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/inmoov_robot.png" alt="InMoov Humanoid Robot" width="100">
+        <img src="assets/img/InMoov_project.png" alt="InMoov Humanoid Robot" width="100">
         <br>
         <strong>Human-sized Humanoid Robot ‘InMoov’</strong>
         <br>
