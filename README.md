@@ -452,6 +452,7 @@
   </table>
 </div>
 
+<!-- 
 ## 🌍 Languages
 
 <div align="center">
@@ -488,4 +489,4 @@
     </tr>
   </table>
 </div>
-
+-->
