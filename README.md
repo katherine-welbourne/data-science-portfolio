@@ -299,3 +299,47 @@
   </table>
 </div>
 
+---
+
+## 🔗 Find Me Online
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+          <img src="assets/img/linkedin_logo.png" alt="LinkedIn Logo" width="80">
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+          <strong>LinkedIn</strong>
+        </a>
+        <br>
+        Connect with me on LinkedIn to explore my professional profile, network, and achievements.
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <a href="https://www.kaggle.com/yourprofile" target="_blank">
+          <img src="assets/img/kaggle_logo.png" alt="Kaggle Logo" width="80">
+        </a>
+        <br>
+        <a href="https://www.kaggle.com/yourprofile" target="_blank">
+          <strong>Kaggle</strong>
+        </a>
+        <br>
+        View my data science projects, competition entries, and notebooks.
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <a href="https://github.com/yourprofile" target="_blank">
+          <img src="assets/img/github_logo.png" alt="GitHub Logo" width="80">
+        </a>
+        <br>
+        <a href="https://github.com/yourprofile" target="_blank">
+          <strong>GitHub</strong>
+        </a>
+        <br>
+        Explore my repositories, code contributions, and machine learning projects.
+      </td>
+    </tr>
+  </table>
+</div>
+
