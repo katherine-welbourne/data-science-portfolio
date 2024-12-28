@@ -191,6 +191,7 @@
         Coursera<br>
         <a href="https://www.credly.com/badges/8b8e6990-a72b-40d3-bb31-82b2dd6c05e1/public_url">View Certificate</a>
       </td>
+      <!-- 
       <td style="width: 200px; text-align: center; vertical-align: top;">
         <img src="assets/img/postgresql_associate.png" alt="PostgreSQL Logo" width="100">
         <br>
@@ -199,9 +200,11 @@
         EnterpriseDB<br>
         <a href="https://example-link-to-postgres-cert">View Certificate</a>
       </td>
+      -->
     </tr>
   </table>
 </div>
+
 
 ---
 
