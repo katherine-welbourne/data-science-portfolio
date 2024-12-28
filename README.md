@@ -175,6 +175,8 @@
   </table>
 </div>
 
+---
+
 ## 🌟 Groups & Societies
 
 <div align="center">
