@@ -203,7 +203,7 @@
   <table>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/imperial_prosthetics_society.png" alt="Prosthetics Society Logo" width="100">
+        <img src="assets/img/ICL_prosthetics_society.jpg" alt="Prosthetics Society Logo" width="100">
         <br>
         <strong>Machine Learning Lead and Educator</strong>
         <br>
