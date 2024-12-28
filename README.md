@@ -92,21 +92,8 @@
           <li>Incorporated advanced control algorithms for enhanced dexterity.</li>
         </ul>
       </td>
-      <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/robotic_dog.png" alt="Robotic Dog" width="100">
-        <br>
-        <strong>HEARTS Robotic Dog Development</strong>
-        <br>
-        <em>Healthcare Engineering and Assistive Robotics Technology and Services</em>
-        <br>
-        <ul style="text-align: left;">
-          <li>Developed a robotic dog as a home assistant.</li>
-          <li>Designed innovative solutions for healthcare robotics and services.</li>
-        </ul>
-      </td>
     </tr>
   </table>
-</div>
 </div>
 
 
