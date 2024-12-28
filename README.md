@@ -54,26 +54,59 @@
 <div align="center">
   <table>
     <tr>
-      <td style="width: 200px; text-align: center; vertical-align: top;">
+      <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/project_advanced_robotics.png" alt="Advanced Robotics" width="100">
         <br>
         <strong>Advanced Robotics Research</strong>
         <br>
-        Robot Intelligence Lab, Imperial College London
+        <em>Robot Intelligence Lab, Imperial College London</em>
         <br>
-        Key Outcome: <em>Achieved X improvement in Y through Z.</em>
+        <ul style="text-align: left;">
+          <li>Developed [Specific Feature/Technology] to achieve [Key Impact/Improvement].</li>
+          <li>Presented findings at [Conference/Publication, if any].</li>
+        </ul>
       </td>
-      <td style="width: 200px; text-align: center; vertical-align: top;">
+      <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/project_quality_control.png" alt="Quality Control" width="100">
         <br>
         <strong>Automated Quality Control</strong>
         <br>
-        Bristol Robotics Laboratory
+        <em>Bristol Robotics Laboratory</em>
         <br>
-        Key Outcome: <em>Reduced defect rates by X% using innovative ML solutions.</em>
+        <ul style="text-align: left;">
+          <li>Reduced defect rates by X% using innovative ML solutions.</li>
+          <li>Streamlined quality inspection workflows, improving efficiency by Y%.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/inmoov_robot.png" alt="InMoov Humanoid Robot" width="100">
+        <br>
+        <strong>Human-sized Humanoid Robot ‘InMoov’</strong>
+        <br>
+        <em>Based on Gaël Langevin’s Open-Source Project</em>
+        <br>
+        <ul style="text-align: left;">
+          <li>Extended the functionality of the open-source InMoov robot.</li>
+          <li>Incorporated advanced control algorithms for enhanced dexterity.</li>
+        </ul>
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/robotic_dog.png" alt="Robotic Dog" width="100">
+        <br>
+        <strong>HEARTS Robotic Dog Development</strong>
+        <br>
+        <em>Healthcare Engineering and Assistive Robotics Technology and Services</em>
+        <br>
+        <ul style="text-align: left;">
+          <li>Developed a robotic dog as a home assistant.</li>
+          <li>Designed innovative solutions for healthcare robotics and services.</li>
+        </ul>
       </td>
     </tr>
   </table>
+</div>
 </div>
 
 
