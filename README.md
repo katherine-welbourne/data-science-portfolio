@@ -207,11 +207,11 @@
           <img src="assets/img/ICL_prosthetics_society.jpg" alt="Prosthetics Society Logo" width="100">
         </a>
         <br>
-        <a href="https://www.instagram.com/icl_prosthetics/" target="_blank">
+        <a>
           <strong>Machine Learning Lead and Educator</strong>
         </a>
         <br>
-        <em>Imperial College London Prosthetics Society</em>
+        <em href="https://www.instagram.com/icl_prosthetics/" target="_blank">Imperial College London Prosthetics Society</em>
         <br>
         <em>Oct 2022 – Apr 2024</em>
         <br>
