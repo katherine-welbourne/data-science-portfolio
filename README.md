@@ -102,13 +102,10 @@
     </tr>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/child_poverty_uk.png" alt="Child Poverty Tableau Visualization" width="100">
+        <img src="assets/img/ChildPovertyTableau_project.png" alt="Child Poverty Tableau Visualization" width="100">
         <br>
         <strong>Child Poverty UK Statistics Tableau Interactive Visualisation</strong>
         <br>
-        <a href="https://public.tableau.com/app/profile/katherine.welbourne/viz/ChildPovertyUK/ChildPovertyUK" target="_blank">
-          View the Interactive Visualization
-        </a>
         <br>
         <ul style="text-align: left;">
           <li>Designed an interactive Tableau dashboard to analyze and visualize child poverty statistics across the UK.</li>
