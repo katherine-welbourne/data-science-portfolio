@@ -217,7 +217,7 @@
         </ul>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/uwe_peer_assisted_learning.png" alt="Peer Assisted Learning Logo" width="100">
+        <img src="assets/img/bristol_robotics_lab.jpg" alt="Peer Assisted Learning Logo" width="100">
         <br>
         <strong>Peer Assisted Learning Leader</strong>
         <br>
