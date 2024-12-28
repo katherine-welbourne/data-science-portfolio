@@ -231,7 +231,7 @@
         </ul>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/hearts_robotic_dog.png" alt="HEARTS Logo" width="100">
+        <img src="assets/img/brl_hearts.png" alt="HEARTS Logo" width="100">
         <br>
         <strong>HEARTS (Healthcare Engineering and Assistive Robotics Technology and Services)</strong>
         <br>
