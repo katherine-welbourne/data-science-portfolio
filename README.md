@@ -203,15 +203,13 @@
   <table>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/ICL_prosthetics_society.jpg" alt="Prosthetics Society Logo" width="100">
+        <br>
+        <strong>Machine Learning Lead and Educator</strong>
+        <br>
         <a href="https://www.instagram.com/icl_prosthetics/" target="_blank">
-          <img src="assets/img/ICL_prosthetics_society.jpg" alt="Prosthetics Society Logo" width="100">
+          <em>Imperial College London Prosthetics Society</em>
         </a>
-        <br>
-        <a>
-          <strong>Machine Learning Lead and Educator</strong>
-        </a>
-        <br>
-        <em href="https://www.instagram.com/icl_prosthetics/" target="_blank">Imperial College London Prosthetics Society</em>
         <br>
         <em>Oct 2022 – Apr 2024</em>
         <br>
@@ -249,4 +247,3 @@
     </tr>
   </table>
 </div>
-
