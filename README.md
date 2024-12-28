@@ -248,7 +248,9 @@
   </table>
 </div>
 
-## 🧰 Other Work Experience
+---
+
+## 🧰 Suporting Roles
 
 <div align="center">
   <table>
