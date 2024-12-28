@@ -174,3 +174,52 @@
     </tr>
   </table>
 </div>
+
+## 🌟 Groups & Societies
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/imperial_prosthetics_society.png" alt="Prosthetics Society Logo" width="100">
+        <br>
+        <strong>Machine Learning Lead and Educator</strong>
+        <br>
+        <em>Imperial College London Prosthetics Society</em>
+        <br>
+        <em>Oct 2022 – Apr 2024</em>
+        <br>
+        <ul style="text-align: left;">
+          <li>Directed the development of the first ML-powered prosthetic.</li>
+          <li>Delivered comprehensive educational sessions on ML and control algorithms.</li>
+        </ul>
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/uwe_peer_assisted_learning.png" alt="Peer Assisted Learning Logo" width="100">
+        <br>
+        <strong>Peer Assisted Learning Leader</strong>
+        <br>
+        <em>Bristol, University of the West of England</em>
+        <br>
+        <em>Sep 2020 – Sep 2022</em>
+        <br>
+        <ul style="text-align: left;">
+          <li>Facilitated study support sessions for 60+ engineering students.</li>
+          <li>Boosted comprehension of mathematical and engineering concepts.</li>
+        </ul>
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/hearts_robotic_dog.png" alt="HEARTS Logo" width="100">
+        <br>
+        <strong>HEARTS (Healthcare Engineering and Assistive Robotics Technology and Services)</strong>
+        <br>
+        <em>Robotic Dog Development</em>
+        <br>
+        <ul style="text-align: left;">
+          <li>Developed a robotic dog as a home assistant.</li>
+          <li>Designed innovative solutions for healthcare robotics and services.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
