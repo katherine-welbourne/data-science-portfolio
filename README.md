@@ -65,8 +65,9 @@
           <li>Hierarchical Reinforcement Learning-based control algorithms for the SLIDER bipedal robot, optimising energy-efficient locomotion.</li>
         </ul>
         <div>
-          <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=blue" alt="Python"></a>
+          <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-white?logo=C%2B%2B&logoColor=blue" alt="C++"></a>
+          <a href="#"><img src="https://img.shields.io/badge/ROS2-white?logo=ros&logoColor=blue" alt="ROS2"></a>
           <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch"></a>
         </div>
       </td>
