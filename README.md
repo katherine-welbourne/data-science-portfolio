@@ -92,7 +92,7 @@
         <em>Imperial College London</em>
         <br>
         <ul style="text-align: left;">
-          <li>Graduated with First-Class Honours.</li>
+          <li>Graduated with Merit.</li>
           <li>Specialized in advanced robotics and machine learning applications.</li>
         </ul>
       </td>
