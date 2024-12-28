@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/open_bionics.png" alt="Open Bionics Logo" style="width: 120px; height: 60px; padding: 10px; object-fit: contain;">
+        <img src="assets/img/open_bionics.png" alt="Open Bionics Logo" width="100">
         <br>
         <strong>Machine Learning Software Engineer Intern</strong>
         <br>
@@ -19,7 +19,7 @@
         </ul>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/bristol_robotics_lab.jpg" alt="BRL Logo" style="width: 180px; height: 60px; padding: 10px; object-fit: contain;">
+        <img src="assets/img/bristol_robotics_lab.jpg" alt="BRL Logo" width="100">
         <br>
         <strong>Computer Vision Intern</strong>
         <br>
@@ -31,7 +31,7 @@
         </ul>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/bristol_robotics_lab.jpg" alt="CHIRON Project Logo" style="width: 180px; height: 60px; padding: 10px; object-fit: contain;">
+        <img src="assets/img/bristol_robotics_lab.jpg" alt="CHIRON Project Logo" width="100">
         <br>
         <strong>Machine Learning Intern</strong>
         <br>
@@ -56,7 +56,7 @@
     <!-- First Row -->
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/SLIDER_project.png" alt="SLIDER Robot" style="max-width: 120px; max-height: 140px; padding: 10px; object-fit: contain;">
+        <img src="assets/img/SLIDER_project.png" alt="SLIDER Robot" width="100">
         <br>
         <strong>Hybrid Hierarchical Control for the Knee-less Bipedal Locomotion of the Robot SLIDER</strong>
         <br>
@@ -74,7 +74,7 @@
         </div>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/BEng_project.png" alt="Prosthetic Hand" style="max-width: 120px; max-height: 140px; padding: 10px; object-fit: contain;">
+        <img src="assets/img/BEng_project.png" alt="Prosthetic Hand" width="100">
         <br>
         <strong>Classifying surface electromyography signals for the control of a prosthetic hand</strong>
         <br>
