@@ -19,7 +19,7 @@
         </ul>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/bristol_robotics_lab.png" alt="BRL Logo" width="100">
+        <img src="assets/img/bristol_robotics_lab.jpg" alt="BRL Logo" width="100">
         <br>
         <strong>Computer Vision Intern</strong>
         <br>
