@@ -67,9 +67,9 @@
         </ul>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/project_quality_control.png" alt="Quality Control" width="100">
+        <img src="assets/img/BEng_project.png" alt="Prosthetic Hand" width="100">
         <br>
-        <strong>Automated Quality Control</strong>
+        <strong>Classifying surface electromyography signals for the control of a prosthetic hand</strong>
         <br>
         <em>Bristol Robotics Laboratory</em>
         <br>
