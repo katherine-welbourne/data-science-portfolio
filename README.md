@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Portfolio  
+# Machine Learning and Data Science Portfolio  
 
 ---
 ## 💼 Professional Experience
