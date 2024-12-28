@@ -212,13 +212,13 @@
         <strong>Professional Machine Learning Engineer Certification</strong>
         <br>
         Google Cloud<br>
-        <a href="https://www.credly.com/badges/75c1d277-9725-4c95-a295-93ac103cd3d0/linked_in_profile">View Certification</a>
         <div>
           <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=blue" alt="Python"></a>
           <a href="#"><img src="https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow&logoColor=FF6F00" alt="TensorFlow"></a>
           <a href="#"><img src="https://img.shields.io/badge/BigQuery-white?logo=googlecloud&logoColor=4285F4" alt="BigQuery"></a>
           <a href="#"><img src="https://img.shields.io/badge/GCP-white?logo=googlecloud&logoColor=4285F4" alt="Google Cloud Platform"></a>
         </div>
+        <a href="https://www.credly.com/badges/75c1d277-9725-4c95-a295-93ac103cd3d0/linked_in_profile">View Certification</a>
       </td>
       <td style="width: 200px; text-align: center; vertical-align: top;">
         <img src="assets/img/tableau_certified_data_analyst.png" alt="Tableau Analyst Logo" width="100">
@@ -226,13 +226,13 @@
         <strong>Tableau Certified Data Analyst</strong>
         <br>
         Tableau<br>
-        <a href="https://example-link-to-tableau-cert">View Certification</a>
         <div>
           <a href="#"><img src="https://img.shields.io/badge/Tableau-white?logo=Tableau" alt="Tableau"></a>
           <a href="#"><img src="https://img.shields.io/badge/SQL-white?logo=PostgreSQL&logoColor=336791" alt="SQL"></a>
           <a href="#"><img src="https://img.shields.io/badge/Excel-white?logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel"></a>
           <a href="#"><img src="https://img.shields.io/badge/Data%20Visualization-white?logo=Tableau&logoColor=orange" alt="Data Visualization"></a>
         </div>
+        <a href="https://example-link-to-tableau-cert">View Certification</a>
       </td>
       <td style="width: 200px; text-align: center; vertical-align: top;">
         <img src="assets/img/aws_machine_learning_specialty.png" alt="AWS ML Logo" width="100">
@@ -240,13 +240,13 @@
         <strong>AWS Certified Machine Learning – Specialty</strong>
         <br>
         Amazon Web Services<br>
-        <a href="https://example-link-to-aws-cert">View Certification</a>
         <div>
           <a href="#"><img src="https://img.shields.io/badge/AWS-white?logo=amazonaws&logoColor=FF9900" alt="AWS"></a>
           <a href="#"><img src="https://img.shields.io/badge/SageMaker-white?logo=amazonaws&logoColor=FF9900" alt="SageMaker"></a>
           <a href="#"><img src="https://img.shields.io/badge/ML%20Engineering-white?logo=amazonaws&logoColor=FF9900" alt="ML Engineering"></a>
           <a href="#"><img src="https://img.shields.io/badge/Rekognition-white?logo=amazonaws&logoColor=FF9900" alt="Rekognition"></a>
         </div>
+        <a href="https://example-link-to-aws-cert">View Certification</a>
       </td>
     </tr>
   </table>
@@ -265,13 +265,13 @@
         <strong>Google Data Analytics Professional Certificate</strong>
         <br>
         Coursera<br>
-        <a href="https://www.credly.com/badges/8b8e6990-a72b-40d3-bb31-82b2dd6c05e1/public_url">View Certificate</a>
         <div>
           <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=blue" alt="Python"></a>
           <a href="#"><img src="https://img.shields.io/badge/SQL-white?logo=PostgreSQL&logoColor=336791" alt="SQL"></a>
           <a href="#"><img src="https://img.shields.io/badge/Excel-white?logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel"></a>
           <a href="#"><img src="https://img.shields.io/badge/Google%20Sheets-white?logo=googlesheets" alt="Google Sheets"></a>
         </div>
+        <a href="https://www.credly.com/badges/8b8e6990-a72b-40d3-bb31-82b2dd6c05e1/public_url">View Certificate</a>
       </td>
       <!-- 
       <td style="width: 200px; text-align: center; vertical-align: top;">
@@ -280,11 +280,11 @@
         <strong>PostgreSQL 12 Associate</strong>
         <br>
         EnterpriseDB<br>
-        <a href="https://example-link-to-postgres-cert">View Certificate</a>
         <div>
           <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&logoColor=336791" alt="PostgreSQL"></a>
           <a href="#"><img src="https://img.shields.io/badge/SQL-white?logo=PostgreSQL&logoColor=336791" alt="SQL"></a>
         </div>
+        <a href="https://example-link-to-postgres-cert">View Certificate</a>
       </td>
       -->
     </tr>
