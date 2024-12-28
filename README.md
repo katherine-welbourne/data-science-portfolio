@@ -55,7 +55,7 @@
   <table>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/project_advanced_robotics.png" alt="Advanced Robotics" width="100">
+        <img src="assets/img/SLIDER_project.png" alt="Advanced Robotics" width="100">
         <br>
         <strong>Advanced Robotics Research</strong>
         <br>
