@@ -451,3 +451,41 @@
     </tr>
   </table>
 </div>
+
+## 🌍 Languages
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/chinese_flag.png" alt="Chinese Flag" width="50">
+        <br>
+        <strong>Mandarin Chinese</strong>
+        <br>
+        <ul style="text-align: left;">
+          <li>HSK 6.0 Certified</li>
+          <li>Professional fluency in reading, writing, and speaking</li>
+          <li>Ability to translate complex technical and business documents</li>
+        </ul>
+        <div>
+          <a href="#"><img src="https://img.shields.io/badge/Chinese-HSK%206.0-orange" alt="HSK 6.0"></a>
+        </div>
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/english_flag.png" alt="English Flag" width="50">
+        <br>
+        <strong>English</strong>
+        <br>
+        <ul style="text-align: left;">
+          <li>Native proficiency</li>
+          <li>Excellent communication and presentation skills</li>
+          <li>Experience in writing technical documentation and reports</li>
+        </ul>
+        <div>
+          <a href="#"><img src="https://img.shields.io/badge/English-Native-blue" alt="English Native"></a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
