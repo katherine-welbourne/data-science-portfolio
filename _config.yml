@@ -34,6 +34,3 @@ defaults:
     values:
       layout: single
       author: Katherine Welbourne
-
-# Optional Analytics and Metadata
-google_analytics: UA-XXXXXXXX-X  # Replace with your Google Analytics ID (optional)
