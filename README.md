@@ -91,8 +91,6 @@
           <li>Incorporated advanced control algorithms for enhanced dexterity.</li>
         </ul>
       </td>
-    </tr>
-    <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/CV_project.png" alt="Computer Vision Rig" width="100">
         <br>
@@ -105,6 +103,7 @@
     </tr>
   </table>
 </div>
+
 
 
 ---
