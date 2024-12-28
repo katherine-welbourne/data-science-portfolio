@@ -1,3 +1,6 @@
 title: Katherine Welbourne
 description: Portfolio of Machine Learning and Data Science Projects
 theme: jekyll-theme-minimal
+
+colors:
+  crimson: '#900C3F'
