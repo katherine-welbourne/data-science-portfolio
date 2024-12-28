@@ -87,9 +87,66 @@
         </div>
       </td>
     </tr>
-    <!-- Additional rows for other projects -->
+    <tr>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/InMoov_project.png" alt="InMoov Humanoid Robot" width="100">
+        <br>
+        <strong>Human-sized Humanoid Robot ‘InMoov’</strong>
+        <br>
+        <em>Based on Gaël Langevin’s Open-Source Project</em>
+        <br>
+        <ul style="text-align: left;">
+          <li>Extended the functionality of the open-source InMoov robot.</li>
+          <li>Incorporated advanced control algorithms for enhanced dexterity.</li>
+        </ul>
+        <div>
+          <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter"></a>
+          <a href="#"><img src="https://img.shields.io/badge/MongoDB-white?logo=mongodb" alt="MongoDB"></a>
+        </div>
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/CV_project.png" alt="Computer Vision Rig" width="100">
+        <br>
+        <strong>Carbon Fibre Defect Detection</strong>
+        <br>
+        <ul style="text-align: left;">
+          <li>Implemented machine vision for defect detection and automated data collection.</li>
+        </ul>
+        <div>
+          <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter"></a>
+          <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="scikit-learn"></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/child_poverty_uk.png" alt="Child Poverty Tableau Visualization" width="100">
+        <br>
+        <strong>Child Poverty UK Statistics Tableau Interactive Visualisation</strong>
+        <br>
+        <a href="https://public.tableau.com/app/profile/katherine.welbourne/viz/ChildPovertyUK/ChildPovertyUK" target="_blank">
+          View the Interactive Visualization
+        </a>
+        <br>
+        <ul style="text-align: left;">
+          <li>Designed an interactive Tableau dashboard to analyze and visualize child poverty statistics across the UK.</li>
+          <li>Presented complex data insights in an accessible format for policymakers and the public.</li>
+        </ul>
+        <div>
+          <a href="#"><img src="https://img.shields.io/badge/Tableau-white?logo=Tableau" alt="Tableau"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
+          <a href="#"><img src="https://img.shields.io/badge/pandas-white?logo=pandas" alt="pandas"></a>
+        </div>
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <!-- Empty cell to balance the grid -->
+      </td>
+    </tr>
   </table>
 </div>
+
 
 
 
