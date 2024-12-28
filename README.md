@@ -69,6 +69,7 @@
           <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-white?logo=C%2B%2B&logoColor=blue" alt="C++"></a>
           <a href="#"><img src="https://img.shields.io/badge/ROS2-white?logo=ros&logoColor=blue" alt="ROS2"></a>
           <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>
         </div>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
