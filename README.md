@@ -1,42 +1,117 @@
 # Data Scientist Portfolio  
 
 ---
+## 💼 Professional Experience
 
-## 💼 Professional Experience  
-### Machine Learning Software Engineer Intern – Open Bionics  
-- **Project Focus:** sEMG Time-Series Analysis  
-  Spearheaded the integration of LSTM and RNN models, achieving 96% motion recognition accuracy for 10 distinct user motions.  
+<div align="center">
+  <table>
+    <tr>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/open_bionics.png" alt="Open Bionics Logo" width="100">
+        <br>
+        <strong>Machine Learning Software Engineer Intern</strong>
+        <br>
+        <em>Open Bionics</em>
+        <br>
+        <ul style="text-align: left;">
+          <li><strong>Project Focus:</strong> sEMG Time-Series Analysis</li>
+          <li>Spearheaded LSTM and RNN models, achieving 96% motion recognition accuracy for 10 motions.</li>
+        </ul>
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/bristol_robotics_lab.png" alt="BRL Logo" width="100">
+        <br>
+        <strong>Computer Vision Intern</strong>
+        <br>
+        <em>Bristol Robotics Laboratory</em>
+        <br>
+        <ul style="text-align: left;">
+          <li><strong>Project Focus:</strong> Automated Quality Control</li>
+          <li>Developed a machine vision system for defect detection and automated data collection.</li>
+        </ul>
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/chiron_project.png" alt="CHIRON Project Logo" width="100">
+        <br>
+        <strong>Machine Learning Intern</strong>
+        <br>
+        <em>Bristol Robotics Laboratory</em>
+        <br>
+        <ul style="text-align: left;">
+          <li><strong>Project Focus:</strong> Human-Robot Interaction</li>
+          <li>Engineered models for subject and condition classification during robot-assisted motion.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Computer Vision Intern – Bristol Robotics Laboratory  
-- **Project Focus:** Automated Quality Control  
-  Developed a machine vision system for defect detection and automated data collection.  
-
-### Machine Learning Intern – Bristol Robotics Laboratory  
-- **Project Focus:** Human-Robot Interaction (CHIRON Project)  
-  Engineered machine learning models for subject and condition classification during robot-assisted motion.  
 
 ---
 
-## 🚀 Projects  
-### Advanced Robotics Research – Robot Intelligence Lab, Imperial College London  
-- **Project 1:** (Add impactful title)  
-  Brief description of the key achievement or impact.  
-- **Project 2:** (Add impactful title)  
-  Brief description of the key achievement or impact.  
+## 🚀 Projects
 
-### Applied Robotics Engineering – Bristol Robotics Laboratory  
-- **Project 1:** (Add impactful title)  
-  Brief description of the key achievement or impact.  
-- **Project 2:** (Add impactful title)  
-  Brief description of the key achievement or impact.  
+<div align="center">
+  <table>
+    <tr>
+      <td style="width: 200px; text-align: center; vertical-align: top;">
+        <img src="assets/img/project_advanced_robotics.png" alt="Advanced Robotics" width="100">
+        <br>
+        <strong>Advanced Robotics Research</strong>
+        <br>
+        Robot Intelligence Lab, Imperial College London
+        <br>
+        Key Outcome: <em>Achieved X improvement in Y through Z.</em>
+      </td>
+      <td style="width: 200px; text-align: center; vertical-align: top;">
+        <img src="assets/img/project_quality_control.png" alt="Quality Control" width="100">
+        <br>
+        <strong>Automated Quality Control</strong>
+        <br>
+        Bristol Robotics Laboratory
+        <br>
+        Key Outcome: <em>Reduced defect rates by X% using innovative ML solutions.</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
-## 🎓 Education  
-- **MSc Human and Biological Robotics**  
-  Imperial College London, UK  
-- **BEng Robotics Engineering**  
-  University of the West of England, Bristol, UK  
+## 🎓 Education
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/imperial_college_london.png" alt="Imperial College London Logo" width="100">
+        <br>
+        <strong>MSc Human and Biological Robotics</strong>
+        <br>
+        <em>Imperial College London</em>
+        <br>
+        <ul style="text-align: left;">
+          <li>Graduated with First-Class Honours.</li>
+          <li>Specialized in advanced robotics and machine learning applications.</li>
+        </ul>
+      </td>
+      <td style="width: 300px; text-align: center; vertical-align: top;">
+        <img src="assets/img/uwe_bristol.png" alt="UWE Bristol Logo" width="100">
+        <br>
+        <strong>BEng Robotics Engineering</strong>
+        <br>
+        <em>University of the West of England, Bristol</em>
+        <br>
+        <ul style="text-align: left;">
+          <li>Graduated with First-Class Honours.</li>
+          <li>Focused on applied robotics and embedded systems.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -75,5 +150,27 @@
 
 ---
 
-## 📜 Certificates of Completion  
-[<img src="assets/img/google_da_certificate.png" alt="Google DA Logo" width="30"> **Google Data Analytics Professional Certificate** – Coursera](https://www.credly.com/badges/8b8e6990-a72b-40d3-bb31-82b2dd6c05e1/public_url)  
+## 📜 Certificates of Completion
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="width: 200px; text-align: center; vertical-align: top;">
+        <img src="assets/img/google_da_certificate.png" alt="Google DA Logo" width="100">
+        <br>
+        <strong>Google Data Analytics Professional Certificate</strong>
+        <br>
+        Coursera<br>
+        <a href="https://www.credly.com/badges/8b8e6990-a72b-40d3-bb31-82b2dd6c05e1/public_url">View Certificate</a>
+      </td>
+      <td style="width: 200px; text-align: center; vertical-align: top;">
+        <img src="assets/img/postgresql_associate.png" alt="PostgreSQL Logo" width="100">
+        <br>
+        <strong>PostgreSQL 12 Associate</strong>
+        <br>
+        EnterpriseDB<br>
+        <a href="https://example-link-to-postgres-cert">View Certificate</a>
+      </td>
+    </tr>
+  </table>
+</div>
