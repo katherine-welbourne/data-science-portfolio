@@ -45,7 +45,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td style="width: 200px; text-align: center; vertical-align: top;">
         <img src="assets/img/google_mle_professional_certification.png" alt="Google MLE Logo" width="100">
         <br>
         <strong>Professional Machine Learning Engineer Certification</strong>
@@ -53,7 +53,7 @@
         Google Cloud<br>
         <a href="https://www.credly.com/badges/75c1d277-9725-4c95-a295-93ac103cd3d0/linked_in_profile">View Certification</a>
       </td>
-      <td align="center">
+      <td style="width: 200px; text-align: center; vertical-align: top;">
         <img src="assets/img/tableau_certified_data_analyst.png" alt="Tableau Analyst Logo" width="100">
         <br>
         <strong>Tableau Certified Data Analyst</strong>
@@ -61,7 +61,7 @@
         Tableau<br>
         <a href="https://example-link-to-tableau-cert">View Certification</a>
       </td>
-      <td align="center">
+      <td style="width: 200px; text-align: center; vertical-align: top;">
         <img src="assets/img/aws_machine_learning_specialty.png" alt="AWS ML Logo" width="100">
         <br>
         <strong>AWS Certified Machine Learning – Specialty</strong>
