@@ -2,11 +2,6 @@
 
 ---
 
-## 🏆 Certifications  
-[<img src="assets/img/google_mle_professional_certification.png" alt="Google MLE Logo" width="30"> **Professional Machine Learning Engineer Certification** – Google Cloud](https://www.credly.com/badges/75c1d277-9725-4c95-a295-93ac103cd3d0/linked_in_profile)  
-
----
-
 ## 💼 Professional Experience  
 ### Machine Learning Software Engineer Intern – Open Bionics  
 - **Project Focus:** sEMG Time-Series Analysis  
@@ -42,6 +37,11 @@
   Imperial College London, UK  
 - **BEng Robotics Engineering**  
   University of the West of England, Bristol, UK  
+
+---
+
+## 🏆 Certifications  
+[<img src="assets/img/google_mle_professional_certification.png" alt="Google MLE Logo" width="30"> **Professional Machine Learning Engineer Certification** – Google Cloud](https://www.credly.com/badges/75c1d277-9725-4c95-a295-93ac103cd3d0/linked_in_profile)  
 
 ---
 
