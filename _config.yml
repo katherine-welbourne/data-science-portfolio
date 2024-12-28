@@ -3,3 +3,5 @@ title: Katherine Welbourne
 description: Portfolio of Machine Learning and Data Science Projects
 show_downloads: false
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
