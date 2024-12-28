@@ -1,7 +1,8 @@
 #logo: /assets/img/headshot_circle.png
 title: Katherine Welbourne
 description: Portfolio of Machine Learning and Data Science Projects
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 
 # Custom settings for the theme
 show_downloads: false       # Disables download links (if supported by the theme)
