@@ -203,9 +203,13 @@
   <table>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/ICL_prosthetics_society.jpg" alt="Prosthetics Society Logo" width="100">
+        <a href="https://www.instagram.com/icl_prosthetics/" target="_blank">
+          <img src="assets/img/ICL_prosthetics_society.jpg" alt="Prosthetics Society Logo" width="100">
+        </a>
         <br>
-        <strong>Machine Learning Lead and Educator</strong>
+        <a href="https://www.instagram.com/icl_prosthetics/" target="_blank">
+          <strong>Machine Learning Lead and Educator</strong>
+        </a>
         <br>
         <em>Imperial College London Prosthetics Society</em>
         <br>
@@ -245,3 +249,4 @@
     </tr>
   </table>
 </div>
+
