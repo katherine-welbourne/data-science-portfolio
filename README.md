@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Public Projects
 
 <div align="center">
   <table>
