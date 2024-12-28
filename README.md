@@ -458,7 +458,7 @@
   <table>
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/chinese_flag.png" alt="Chinese Flag" width="50">
+        <img src="assets/img/China_Flag.png" alt="Chinese Flag" width="50">
         <br>
         <strong>Mandarin Chinese</strong>
         <br>
@@ -472,7 +472,7 @@
         </div>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/english_flag.png" alt="English Flag" width="50">
+        <img src="assets/img/UK_Flag.png" alt="English Flag" width="50">
         <br>
         <strong>English</strong>
         <br>
