@@ -1,31 +1,47 @@
-# Data Scientist
+# Data Scientist Portfolio
 
-## Education
-MSc Human and Biological Robotics, Imperial College London, UK
+## 🎓 Education
+- **MSc Human and Biological Robotics**  
+  Imperial College London, UK  
+- **BEng Robotics Engineering**  
+  University of the West of England, Bristol, UK  
 
-BEng Robotics Engineering, Bristol, University of the West of England, UK 
+---
 
-## Work Experience
-Machine Learning Software Engineering Summer Internship @ Open Bionics
-- Spearheaded the integration of LSTM and RNN machine learning models, achieving 96% motion recognition accuracy from sEMG time-series data for 10 distinct user motions.
+## 💼 Professional Experience
+### Machine Learning Software Engineer Intern – Open Bionics
+- **Project Focus:** sEMG Time-Series Analysis  
+  Spearheaded the integration of LSTM and RNN models, achieving 96% motion recognition accuracy for 10 distinct user motions.  
 
-Machine Learning Software Engineering Summer Internship Computer Vision @ Bristol Robotics Laboratory
-- Implemented machine vision for defect detection and automated data collection.
+### Computer Vision Intern – Bristol Robotics Laboratory  
+- **Project Focus:** Automated Quality Control  
+  Developed a machine vision system for defect detection and automated data collection.  
 
-Machine Learning Software Engineering Summer Internship @ Bristol Robotics Laboratory
-- Machine Learning for subject and condition classification during robot-assisted motion for the CHIRON Project.
+### Machine Learning Intern – Bristol Robotics Laboratory  
+- **Project Focus:** Human-Robot Interaction (CHIRON Project)  
+  Engineered machine learning models for subject and condition classification during robot-assisted motion.  
 
-## Certifications
-- [Professional Machine Learning Engineer Certification, Google Cloud](https://www.credly.com/badges/75c1d277-9725-4c95-a295-93ac103cd3d0/linked_in_profile)
+---
 
-## Certificates of Completion
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/5ENUXTFTXJXV)
+## 🏆 Certifications
+- [**Professional Machine Learning Engineer Certification** – Google Cloud](https://www.credly.com/badges/75c1d277-9725-4c95-a295-93ac103cd3d0/linked_in_profile)
 
-## Projects
-Title @ Robot Intelligence Lab, Imperial College London, UK
-- big impact project 1
-- big impace project 2
+---
 
-Title @ Bristol Robotics Lab, UK
-- big impact project 1
-- big impace project 2
+## 📜 Certificates of Completion
+- [**Google Data Analytics Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/5ENUXTFTXJXV)
+
+---
+
+## 🚀 Projects
+### Advanced Robotics Research – Robot Intelligence Lab, Imperial College London  
+- **Project 1:** (Add impactful title)  
+  Brief description of the key achievement or impact.  
+- **Project 2:** (Add impactful title)  
+  Brief description of the key achievement or impact.  
+
+### Applied Robotics Engineering – Bristol Robotics Laboratory  
+- **Project 1:** (Add impactful title)  
+  Brief description of the key achievement or impact.  
+- **Project 2:** (Add impactful title)  
+  Brief description of the key achievement or impact.  
