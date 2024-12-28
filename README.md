@@ -85,7 +85,10 @@
         <div>
           <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
           <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Google-white?logo=Google" alt="Google"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Pandas-white?logo=pandas" alt="Pandas"></a>
+          <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>                    
+          <a href="#"><img src="https://img.shields.io/badge/3D%20Printing-white?logo=3D&logoColor=orange" alt="3D Printing"></a>
         </div>
       </td>
     </tr>
@@ -103,8 +106,10 @@
         </ul>
         <div>
           <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="Jupyter"></a>
-          <a href="#"><img src="https://img.shields.io/badge/MongoDB-white?logo=mongodb" alt="MongoDB"></a>
+          <a href="#"><img src="https://img.shields.io/badge/ROS-white?logo=ros&logoColor=blue" alt="ROS"></a>
+          <a href="#"><img src="https://img.shields.io/badge/3D%20Printing-white?logo=3D&logoColor=orange" alt="3D Printing"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Arduino-white?logo=Arduino&logoColor=00979D" alt="Arduino"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=4EAA25" alt="Bash"></a>
         </div>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
