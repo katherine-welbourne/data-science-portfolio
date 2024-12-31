@@ -96,7 +96,9 @@
     <!-- Second Row -->
     <tr>
       <td style="width: 300px; text-align: center; vertical-align: top;">
-        <img src="assets/img/LLM_Sentiment_Topic.png" alt="LLM Sentiment and Topic Analysis" width="100">
+        <a href="https://github.com/katherine-welbourne/imdb-sentiment-analysis">
+          <img src="assets/img/movieSentimentAnalysis.png" alt="LLM Sentiment Analysis" width="100">
+        </a>
         <br>
         <strong>Fine-Tuned LLM for Sentiment and Topic Analysis</strong>
         <br>
