@@ -113,7 +113,7 @@
           <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=blue" alt="Python"></a>
           <a href="#"><img src="https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace" alt="Hugging Face"></a>
           <a href="#"><img src="https://img.shields.io/badge/Google%20Colab-white?logo=GoogleColab" alt="Google Colab"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Gradio-white?logo=Gradio" alt="Gradio"></a>
+          <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch"></a>
           <a href="#"><img src="https://img.shields.io/badge/Visualization-white?logo=Plotly" alt="Visualization"></a>        </div>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
