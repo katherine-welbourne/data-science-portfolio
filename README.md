@@ -114,8 +114,6 @@
           <a href="#"><img src="https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace" alt="Hugging Face"></a>
           <a href="#"><img src="https://img.shields.io/badge/Google%20Colab-white?logo=GoogleColab" alt="Google Colab"></a>
           <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Visualization-white?logo=Plotly" alt="Visualization"></a>        
-          <a href="#"><img src="https://img.shields.io/badge/DistilBERT-white?logo=HuggingFace&logoColor=yellow" alt="DistilBERT"></a>
           <a href="#"><img src="https://img.shields.io/badge/LLM-white?logo=HuggingFace&logoColor=yellow" alt="Large Language Model"></a>
         </div>
       </td>
