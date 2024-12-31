@@ -111,11 +111,10 @@
         </ul>
         <div>
           <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=blue" alt="Python"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Transformers-white?logo=HuggingFace" alt="Transformers"></a>
-          <a href="#"><img src="https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow" alt="TensorFlow"></a>
-          <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="PyTorch"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib" alt="Matplotlib"></a>
-        </div>
+          <a href="#"><img src="https://img.shields.io/badge/HuggingFace-white?logo=HuggingFace" alt="Hugging Face"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Google%20Colab-white?logo=GoogleColab" alt="Google Colab"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Gradio-white?logo=Gradio" alt="Gradio"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Visualization-white?logo=Plotly" alt="Visualization"></a>        </div>
       </td>
       <td style="width: 300px; text-align: center; vertical-align: top;">
         <img src="assets/img/CV_project.png" alt="Computer Vision Rig" width="100">
