@@ -1,6 +1,6 @@
 ✅: Uploaded to Github
 🔄: Currently Revising
-❌: Pending Revisions
+❌: Pending Revisions before upload
 
 # Notebooks
 ├─ NLP
@@ -17,6 +17,7 @@
 │   ├─ Text_Generation
 │   │   ├─ ChineseHSKSentenceGenerator.ipynb 🔄
 │   │   ├─ EnglishCEFRSentenceGenerator.ipynb 🔄
+│   │   ├─ JapaneseJLPTSentenceGenerator.ipynb 🔄
 │   ├─ Named_Entity_Recognition
 │   │   ├─ BiomedicalNER.ipynb
 │   │   ├─ FinanceEntityExtraction.ipynb
