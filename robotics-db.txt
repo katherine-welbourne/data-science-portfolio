@@ -6,13 +6,19 @@
 ├─ Robotics
 │   ├─ Mobility and Navigation
 │   │   ├─ Autonomous Micromouse Maze Solver ✅
+│   │   ├─ Hybrid Hierarchical Control for the Knee-less Bipedal Locomotion of the Robot SLIDER ❌
 │   │   ├─ Self-Balancing Robot
 │   │   ├─ GPS-Guided Rover
 │   │   ├─ SLAM-Based Autonomous Navigation
 │   │   ├─ Line Following Robot
 │   │   ├─ Obstacle Avoidance Robot
 │   │
+│   ├─ Humanoid Robotics ❌
+│   │   ├─ InMoov Humanoid Robot
+│   │       └─ Human-sized Humanoid Robot ‘InMoov,’ based on Gaël Langevin’s Open-Source Project.
+│   │
 │   ├─ Manipulation and Control
+│   │   ├─ Classifying surface electromyography signals for the control of a prosthetic hand. ❌
 │   │   ├─ Robotic Arm for Object Sorting
 │   │   ├─ 3D Printed Robotic Gripper 🔄
 │   │   ├─ Gesture-Controlled Robot
@@ -20,6 +26,7 @@
 │   │   ├─ Adaptive Robotic Prosthetic Hand
 │   │
 │   ├─ Perception and Vision
+│   │   ├─ Computer Vision Rig: Carbon Fibre Defect Detection
 │   │   ├─ Object Detection and Tracking Robot
 │   │   ├─ Face Recognition Security Bot
 │   │   ├─ Vision-Based Sorting System
