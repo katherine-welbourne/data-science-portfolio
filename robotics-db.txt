@@ -1,0 +1,57 @@
+✅: Uploaded to Github
+🔄: Currently Revising
+❌: Pending Revisions before upload
+
+# Robotics Projects 
+├─ Robotics
+│   ├─ Mobility and Navigation
+│   │   ├─ Autonomous Micromouse Maze Solver ✅
+│   │   ├─ Self-Balancing Robot
+│   │   ├─ GPS-Guided Rover
+│   │   ├─ SLAM-Based Autonomous Navigation
+│   │   ├─ Line Following Robot
+│   │   ├─ Obstacle Avoidance Robot
+│   │
+│   ├─ Manipulation and Control
+│   │   ├─ Robotic Arm for Object Sorting
+│   │   ├─ 3D Printed Robotic Gripper 🔄
+│   │   ├─ Gesture-Controlled Robot
+│   │   ├─ Pick-and-Place Automation
+│   │   ├─ Adaptive Robotic Prosthetic Hand
+│   │
+│   ├─ Perception and Vision
+│   │   ├─ Object Detection and Tracking Robot
+│   │   ├─ Face Recognition Security Bot
+│   │   ├─ Vision-Based Sorting System
+│   │   ├─ Depth Sensing for Obstacle Detection
+│   │   ├─ QR Code Navigating Robot
+│   │
+│   ├─ Swarm Robotics
+│   │   ├─ Coordinated Multi-Robot Path Planning
+│   │   ├─ Decentralized Communication in Robot Swarms
+│   │   ├─ Swarm-Based Object Transport
+│   │   ├─ Formation Control for Robot Groups
+│   │
+│   ├─ Human-Robot Interaction (HRI)
+│   │   ├─ Voice-Controlled Service Robot
+│   │   ├─ Social Robot for Home Assistance
+│   │   ├─ Robotic Tutor for Educational Applications
+│   │   ├─ Telepresence Robot
+│   │
+│   ├─ Machine Learning and AI in Robotics
+│   │   ├─ Reinforcement Learning for Robot Control 🔄
+│   │   ├─ AI-Powered Robotic Vacuum Cleaner
+│   │   ├─ Natural Language Processing in HRI
+│   │   ├─ Predictive Maintenance for Robots
+│   │
+│   ├─ Specialized Applications
+│   │   ├─ Underwater Exploration Robot
+│   │   ├─ Robotic Exoskeleton for Physical Therapy
+│   │   ├─ Agricultural Robot for Crop Monitoring
+│   │   ├─ Industrial Welding Robot
+│   │
+│   ├─ DIY Robotics
+│   │   ├─ Arduino-Based Robotic Car
+│   │   ├─ Raspberry Pi Surveillance Robot
+│   │   ├─ Open-Source Humanoid Robot
+│   │   ├─ 3D Printed Spider Robot
