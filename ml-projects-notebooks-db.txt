@@ -1,0 +1,104 @@
+✅: Uploaded to Github
+🔄: Currently Revising
+❌: Pending Revisions
+
+# Notebooks
+├─ NLP
+│   ├─ Machine_Translation
+│   │   ├─ EnglishToChineseTranslator.ipynb ✅
+│   │   ├─ ChineseToEnglishTranslator.ipynb
+│   │   ├─ EnglishToJapaneseTranslator.ipynb
+│   │   ├─ JapaneseToEnglishTranslator.ipynb
+│   ├─ Text_Classification
+│   │   ├─ IMDBSentimentAnalysis.ipynb ✅
+│   │   ├─ EmailEmotionDetectionWithExplainability.ipynb ❌
+│   │   ├─ NewsTopicClassification.ipynb
+│   │   ├─ HateSpeechDetection.ipynb
+│   ├─ Text_Generation
+│   │   ├─ ChineseHSKSentenceGenerator.ipynb 🔄
+│   │   ├─ EnglishCEFRSentenceGenerator.ipynb 🔄
+│   ├─ Named_Entity_Recognition
+│   │   ├─ BiomedicalNER.ipynb
+│   │   ├─ FinanceEntityExtraction.ipynb
+│   ├─ Summarization
+│   │   ├─ LegalDocumentSummarizer.ipynb
+│   │   ├─ NewsArticleSummarizer.ipynb
+│   ├─ Question_Answering
+│   │   ├─ SQuADQA.ipynb
+│   ├─ Dialogue_Systems
+│   │   ├─ SimpleChatbot.ipynb
+│   │   ├─ TaskOrientedChatbot.ipynb
+├─ Computer_Vision
+│   ├─ OCR 
+│   │   ├─ SubtitleOpticalCharacterRecognition.ipynb ❌
+│   ├─ Image_Classification
+│   │   ├─ CIFAR10Classification.ipynb
+│   │   ├─ BrainMRIClassification.ipynb
+│   │   ├─ SkinCancerDetection.ipynb
+│   ├─ Object_Detection
+│   │   ├─ YOLOObjectDetection.ipynb
+│   │   ├─ FasterRCNNObjectDetection.ipynb
+│   ├─ Semantic_Segmentation
+│   │   ├─ UNetMedicalSegmentation.ipynb
+│   │   ├─ RoadLaneSegmentation.ipynb
+│   ├─ Image_Generation
+│   │   ├─ GANHandwrittenDigits.ipynb
+│   │   ├─ StyleTransferOnPaintings.ipynb
+│   ├─ Face_Recognition
+│   │   ├─ FaceDetectorAndRecognizer.ipynb
+│   │   ├─ FaceMaskDetector.ipynb
+├─ Time_Series
+│   ├─ Classification
+│   │   ├─ OpenBionics_sEMGHandMotionClassification.ipynb ❌
+│   ├─ Forecasting
+│   │   ├─ StockPricePrediction.ipynb
+│   │   ├─ EnergyConsumptionForecast.ipynb
+│   ├─ Anomaly_Detection
+│   │   ├─ IoTDeviceAnomalyDetection.ipynb
+│   │   ├─ NetworkIntrusionDetection.ipynb
+├─ Recommender_Systems
+│   ├─ Collaborative_Filtering
+│   │   ├─ MovieLensRecommendations.ipynb
+│   │   ├─ MusicRecommenderSystem.ipynb
+│   ├─ Content_Based
+│   │   ├─ NewsArticleRecommender.ipynb
+│   │   ├─ BookRecommenderSystem.ipynb
+│   ├─ Hybrid
+│   │   ├─ ECommerceProductRecommender.ipynb
+├─ Reinforcement_Learning
+│   ├─ Value_Based
+│   │   ├─ DQNSimpleAtari.ipynb
+│   │   ├─ DQNLunarLander.ipynb
+│   ├─ Policy_Based
+│   │   ├─ PPOCartPole.ipynb
+│   │   ├─ PPOContinuousControl.ipynb
+│   ├─ Multi_Agent
+│   │   ├─ MultiAgentCooperativeGame.ipynb
+│   │   ├─ MultiAgentCompetitiveGame.ipynb
+├─ Unsupervised_Learning
+│   ├─ Clustering
+│   │   ├─ CustomerSegmentationKMeans.ipynb
+│   │   ├─ TopicModelingLDA.ipynb
+│   ├─ Dimensionality_Reduction
+│   │   ├─ PCAVisualization.ipynb
+│   │   ├─ AutoencoderAnomalyDetection.ipynb
+├─ Tabular_Analysis
+│   ├─ Regression
+│   │   ├─ HousePricePrediction.ipynb
+│   │   ├─ InsurancePremiumPrediction.ipynb
+│   ├─ Classification
+│   │   ├─ LoanDefaultPrediction.ipynb
+│   │   ├─ TelcoChurnPrediction.ipynb
+│   ├─ Explainable_ML
+│   │   ├─ FeatureImportanceSHAP.ipynb
+├─ MLOps_Workflows
+│   ├─ Model_Deployment
+│   │   ├─ FlaskDeploymentDemo.ipynb
+│   │   ├─ DockerizedMLApp.ipynb
+│   │   ├─ FastAPIServing.ipynb
+│   ├─ Automated_Pipelines
+│   │   ├─ KubeflowPipeline.ipynb
+│   │   ├─ AirflowDataPipeline.ipynb
+│   ├─ Monitoring
+│   │   ├─ ModelDriftDetection.ipynb
+│   │   ├─ MLMonitoringToolsComparison.ipynb
