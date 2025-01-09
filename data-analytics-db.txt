@@ -1,0 +1,62 @@
+✅: Uploaded to Github
+🔄: Currently Revising
+❌: Pending Revisions before upload
+
+# Data Analytics Projects 
+├─ Data Analytics
+│   ├─ Data Cleaning and Preparation
+│   │   ├─ Handling Missing Data in a Large Dataset
+│   │   ├─ Data Transformation with SQL and Pandas
+│   │   ├─ Automating Data Pipelines with Apache Airflow
+│   │   ├─ Data Quality Assessment and Reporting
+│   │
+│   ├─ Data Visualization
+│   │   ├─ Child Poverty Tableau Visualization 🔄
+│   │   ├─ Interactive Sales Dashboard in Tableau
+│   │   ├─ Regional Housing Cost Impact Analysis (e.g., UK Regions) ❌
+│   │   ├─ Financial KPI Dashboard with Power BI
+│   │   ├─ Custom Data Storytelling with Matplotlib and Seaborn
+│   │   ├─ Web Traffic Analysis Dashboard with Plotly
+│   │
+│   ├─ Exploratory Data Analysis (EDA)
+│   │   ├─ Global Temperature Trends Over Decades
+│   │   ├─ Analyzing Customer Churn in a Subscription Service
+│   │   ├─ Investigating COVID-19 Data Trends
+│   │   ├─ E-Commerce Sales Data: Trends and Insights
+│   │   ├─ Correlation Analysis in Healthcare Data
+│   │
+│   ├─ Business Intelligence and Reporting
+│   │   ├─ Monthly Revenue Reporting Automation
+│   │   ├─ Supply Chain Optimization Insights
+│   │   ├─ Market Basket Analysis for Retail
+│   │   ├─ Profitability Reports for Small Businesses
+│   │
+│   ├─ Statistical Analysis
+│   │   ├─ Hypothesis Testing for A/B Testing Results
+│   │   ├─ Time Series Decomposition of Sales Data
+│   │   ├─ ANOVA for Marketing Campaign Effectiveness
+│   │   ├─ Descriptive Statistics for Real-World Data
+│   │
+│   ├─ Data Engineering
+│   │   ├─ Building a Relational Database with PostgreSQL
+│   │   ├─ Designing ETL Pipelines for Data Integration
+│   │   ├─ Cloud Data Warehouse Setup with BigQuery
+│   │   ├─ Data Partitioning for Large Datasets in Hadoop
+│   │
+│   ├─ Domain-Specific Analytics
+│   │   ├─ Financial Portfolio Risk Analysis
+│   │   ├─ Health Metrics Analysis for Patient Outcomes
+│   │   ├─ Transportation Data Trends: Ride-Sharing Services
+│   │   ├─ Social Media Sentiment Analysis with NLP Tools (Basic Analytics)
+│   │
+│   ├─ Open Data Projects
+│   │   ├─ Analyzing Public Transport Usage Trends
+│   │   ├─ Exploring OpenStreetMap Data for City Planning
+│   │   ├─ Energy Consumption Trends from Open Energy Data
+│   │   ├─ Global Trade Analysis Using UN COMTRADE Data
+│   │
+│   ├─ DIY Projects
+│   │   ├─ Personal Finance Tracker with Python
+│   │   ├─ Local Weather Analysis Using Public APIs
+│   │   ├─ Tracking Exercise Data from Wearables
+│   │   ├─ Building a Budget Visualization Tool
